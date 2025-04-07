@@ -1,4 +1,4 @@
-Alasso
+Alasso:
 Alasso is a student-focused web platform designed to organize and access notes and worksheets, making learning more effective and streamlined. Built with React, it offers a smooth and responsive user experience.
 
 Getting Started
